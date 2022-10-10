@@ -8,7 +8,8 @@ void main()
  printf("Enter the limit:\n");
  scanf("%d",&n);
    i=fibo(n);
- printf("\nThe %dth Fibonacci number is %ld",n,i);
+ printf("\nThe %d th Fibonacci number is %d",n,i);
+ 
  
 } 
 /*
